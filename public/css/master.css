@@ -1,0 +1,20 @@
+
+
+@media(max-width: 1024px){
+
+    .accounts_home{
+        display: none;
+    }
+}
+
+.text-secondary{
+    color: #fd784f!important;
+}
+
+.bg-secondary{
+    background-color: #fd784f!important;
+}
+
+.bg-dark{
+    background-color: #07122c!important;
+}
